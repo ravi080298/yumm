@@ -1,0 +1,62 @@
+.yg-info {
+  /* transform: none;
+  transition: all 0.4s cubic-bezier(0.74, 0, 0.2, 1); */
+}
+.inner {
+  padding: 104px 100px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.top {
+  padding: 0;
+}
+h2 {
+  font-family: Slate W01 Bold, Arial, Helvetica, sans-serif !important ;
+  font-size: 76px;
+  line-height: 80px;
+  color: #3c424f;
+  margin-bottom: 16px;
+  display: block;
+  margin-bottom: var(baseline);
+}
+
+p {
+  color: #686b77;
+  font-size: 19px;
+  line-height: 32px;
+  top: 1px;
+}
+div {
+  display: block;
+}
+
+h4 {
+  font-size: 28px;
+  font-family: Slate W01 Medium, Arial, Helvetica, sans-serif !important;
+  color: #3c424f;
+  line-height: 32px;
+  margin-bottom: 12px;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+a {
+  font-family: Slate W01 Medium, Arial, Helvetica, sans-serif !important;
+  text-decoration: none;
+  font-size: inherit;
+  line-height: inherit;
+  cursor: pointer;
+  transition: all 0.25 ease-in-out;
+}
+.emoji {
+  top: 3px;
+  margin-left: 5px;
+}
+.social {
+  margin-top: 16px;
+  display: flex;
+  align-items: center;
+}

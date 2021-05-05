@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  overflow: hidden;
+}
+.left {
+  width: 50vw;
+  height: 100vh;
+}
+.right {
+  width: 50vw;
+  height: 100vh;
+}
+body {
+  margin: 0px !important;
+}
